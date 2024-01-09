@@ -2,7 +2,7 @@
     "applinks": {
         "details": [
              {
-                "appIDs": [ "24SJ354ETU.com.ventopay.mocca.app.ventopay", "24SJ354ETU.com.ventopay.mocca.app.ventopay.debug", "6M77R2D3X4.com.plt.ScanApp" ], 
+                "appIDs": [ "24SJ354ETU.com.ventopay.mocca.app.ventopay", "24SJ354ETU.com.ventopay.mocca.app.ventopay.debug" ], 
                 "components": [{ 
                     "/": "/mobile_app/*", 
                     "comment": "Matches any URL" 
